@@ -3,9 +3,9 @@
 Kelompok : C01 
 
 Anggota Kelompok: 
--Rifat Qurratu Aini Irwandi 5025241233
--Shafira Nauraishma Zahida 5025241235
--Mayandra Suhaira Frisiandi 5025241240
+-Rifat Qurratu Aini Irwandi 5025241233  
+-Shafira Nauraishma Zahida 5025241235  
+-Mayandra Suhaira Frisiandi 5025241240  
 
 `def f_deriv4(x) ` merupakan fungsi untuk memanggil turunan dari f(x).
 
