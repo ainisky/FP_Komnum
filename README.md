@@ -1,19 +1,24 @@
 # FP_Komnum_Program_38
 
-Kelompok : C01 
+**Kelompok:** C01
 
-Anggota Kelompok: 
--Rifat Qurratu Aini Irwandi 5025241233  
--Shafira Nauraishma Zahida 5025241235  
--Mayandra Suhaira Frisiandi 5025241240  
+**Anggota Kelompok:**  
+- Rifat Qurratu Aini Irwandi (5025241233)  
+- Shafira Nauraishma Zahida (5025241235)  
+- Mayandra Suhaira Frisiandi (5025241240)  
 
-`def f_deriv4(x) ` merupakan fungsi untuk memanggil turunan dari f(x).
+---
 
-`def estimated_error(a, b)` mengambil batas bawah, atas, dan hasil turunan untuk menghitung ET.
+### Penjelasan Fungsi:
 
-`def f(x)` berisi fungsi dari soal yaitu F(x) = 3x^5  - 8x^4.
+- `def f_deriv4(x)`  
+  Fungsi untuk menghitung turunan ke-4 dari fungsi \( f(x) \).
 
-`def simpson_3_8(a, b)` mengolah angka-angka menggunakan rumus simpson 3/8.
+- `def estimated_error(a, b)`  
+  Fungsi yang mengambil batas bawah dan atas interval serta hasil turunan ke-4 untuk menghitung estimasi error (ET) metode Simpson 3/8.
 
+- `def f(x)`  
+  Fungsi utama dari soal: \( f(x) = 3x^5 - 8x^4 \).
 
-
+- `def simpson_3_8(a, b)`  
+  Fungsi yang mengolah nilai-nilai menggunakan rumus Simpson 3/8 untuk menghitung hasil.
