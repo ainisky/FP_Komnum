@@ -3,7 +3,6 @@
 Kelompok : C01 
 
 Anggota Kelompok: 
-
 -Rifat Qurratu Aini Irwandi 5025241233
 -Shafira Nauraishma Zahida 5025241235
 -Mayandra Suhaira Frisiandi 5025241240
